@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-You can visit my homepage: [gaetanodibenedetto.github.io](https://gaetanodibenedetto.github.io/)
+I'm Gaetano Di Benedetto, a Ph.D. Student in Artificial Intelligence at the Department of Computer Science, University of Bari Aldo Moro, Italy. 
+
+My research focuses on leveraging Computer Vision techniques to enhance Health Recommender Systems, particularly through Human Pose Estimation and Explainable AI in digital healthcare.
+
+🔗 **Check out my homepage**: [gaetanodibenedetto.github.io](https://gaetanodibenedetto.github.io/)
+
 <!--
 **GaetanoDibenedetto/GaetanoDibenedetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
