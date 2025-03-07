@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gaetano Di Benedetto, a Ph.D. Student in Artificial Intelligence at the Department of Computer Science, University of Bari Aldo Moro, Italy. 
+I'm Gaetano Di Benedetto, a Ph.D. Candidate in Artificial Intelligence at the Department of Computer Science, University of Bari Aldo Moro, Italy. 
 
 My research focuses on leveraging Computer Vision techniques to enhance Health Recommender Systems, particularly through Human Pose Estimation and Explainable AI in digital healthcare.
 
